@@ -83,20 +83,17 @@ finalCode2 :`
 合肥工业大学大三学生
 技能
 ----
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* js
+* html&css
+* vue
+* python(接触过django和)
 工作经历
 ----
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+暂无
 链接
 ----
 * [GitHub](https://github.com/Mamba-working)
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/)，打造你自己的简历！
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/_demo)，打造你自己的简历！
 `
 ,
       resumeCode:`
