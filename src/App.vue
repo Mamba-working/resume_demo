@@ -65,6 +65,7 @@ html{
 #app {
   position: fixed; left: 0; top: 0;
   transform: rotateY(10deg) translateZ(-100px) ;
+  animation: breath 0.5s infinite alternate-reverse;
 }
 
 /* 接下来我给自己准备一个编辑器 */
